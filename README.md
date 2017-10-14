@@ -15,6 +15,5 @@ v. pyacoustid
 vi. chromaprint
 
 ### Run
-''' 
->python sound_processing.py
-'''
+' ' '
+> python sound_processing.py
